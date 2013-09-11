@@ -1,4 +1,10 @@
 Dark-Glass-Cinnamon-Theme
 =========================
 
-Cinnamon Theme
+Theme for Cinnamon DE. 
+
+How to configure:
+
+Paste cinnamon.css in "/usr/share/cinnamon/theme/";
+
+Restart Cinnamon.
